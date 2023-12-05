@@ -1,7 +1,6 @@
 # react-native-map
 
-# It looks like you've shared a React Native code snippet that uses the react-native-maps library to create a map view with markers. Overall, the 
-code seems well-structured and follows common patterns for working with maps in React Native.
+# It looks like you've shared a React Native code snippet that uses the react-native-maps library to create a map view with markers. Overall, the code seems well-structured and follows common patterns for working with maps in React Native.
 
  # Here are a few points to consider:
 
